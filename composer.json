@@ -1,0 +1,21 @@
+{
+    "name": "alpiiscky/yii2-simple-helpers",
+    "description": "Хелпер регулярных выражений и админ хелпер",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," regular"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Дмитрий",
+            "email": "akhmetov.dy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alpiiscky\\simplehelpers\\": ""
+        }
+    }
+}
